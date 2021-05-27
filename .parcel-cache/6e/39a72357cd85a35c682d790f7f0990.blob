@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sairoden Gandarosa - Portfolio</title>
+    <link rel="stylesheet" href="c30bed37e3f4216be8e1bb73b8865c1c">
+    <link rel="stylesheet" href="4c808e14dd00959dc59c5d24e7180101">
+    <link rel="stylesheet" href="1564de55bd42275fabe1ccb289abb8f8">
+    <script src="7b29600ec2f56d2f4f1aa9b9bcd0a4b4" crossorigin="anonymous"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="0024665a672848c8dbfe7b6f98ca50ee"></script>
+    <script data-parcel-key="2a4049566528c9ed92d71422eccffb15">
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "UA-175514325-1");
+    </script>
+  </head>
+
+  <body>
+    <div class="container">
+      <header>
+        <section class="title">
+          <img alt="app-icon" src="9a75a5fb98d6341e8de4aa4061766eb2">
+          <a href="656ec5faf4da6110bed179950081addf"><span class="firstname">Backend</span> Web Developer</a>
+        </section>
+        <nav class="links">
+          <span class="link active"><a href="#portfolio">Portfolio</a></span>
+          <span class="link active"><a href="#contact">Contact Me</a></span>
+        </nav>
+      </header>
+
+      <div class="hero">
+        <div class="intro">
+          <div class="intro-main">
+            <h3>Sairoden Gandarosa</h3>
+          </div>
+          <div class="intro-subtitle">
+            <p>
+              A passionate developer and sometimes designer of internet spaces,
+              I focus on creating beautiful and intuitive user experiences.
+            </p>
+          </div>
+          <div class="action-btn-group">
+            <a href="#portfolio" class="btn round-btn portfolio-btn">See Projects</a>
+            <a href="#contact" class="btn transparent-btn">Let's Connect</a>
+          </div>
+        </div>
+        <div class="hero-illustration"></div>
+      </div>
+
+      <div class="social">
+        <a href="ffe4ee45ae049284b4c092d80ae88982" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+        <a href="47cd85a0f0f3cd83f965a38d81343f41" target="_blank"><i class="fab fa-twitter"></i></a>
+        <a href="9436012fd0c45890073e30c93c797b3c" target="_blank"><i class="fab fa-github"></i></a>
+        <a href="4c01366367186c0705f9450a6aafb87e" target="_blank"><i class="fab fa-instagram"></i></a>
+      </div>
+
+      <div class="resume">
+        <a class="btn round-btn portfolio-btn" href="ef8561f9dfea400de9de89feaeb6ea2e" target="_blank">View Resume</a>
+      </div>
+
+      <div class="portfolio" id="portfolio">
+        <h3>Portfolio</h3>
+
+        <div class="grid-row">
+          <div class="grid-item">
+            <a class="wrapping-link" href="efa15f935bcdb955d0d21dabc88686ae" target="_blank"></a>
+            <div class="grid-item-wrapper" style="76b607541809a30137fe4ddf14d00263">
+              <div class="grid-item-container">
+                <div class="grid-image-top">
+                  <span class="centered project-image-bg"> </span>
+                </div>
+              </div>
+            </div>
+            <div class="github-title">
+              <a href="19ad3329fb17cacaddaf23640ee95de8" target="_blank"><i class="fab fa-github"></i>
+              </a>
+              <h4>Forkify</h4>
+            </div>
+            <p>HTML Sass Javascript MVC</p>
+          </div>
+          <div class="grid-item">
+            <a class="wrapping-link" href="d1517f746e0222263d7560ee223ed4df" target="_blank"></a>
+            <div class="grid-item-wrapper" style="5341cbbdf06e38be761ac8a8856d0876">
+              <div class="grid-item-container">
+                <div class="grid-image-top">
+                  <span class="centered project-image-bg"></span>
+                </div>
+              </div>
+            </div>
+            <div class="github-title">
+              <a href="a1e4abb9363fd5b47bcc24de8a8b31fe" target="_blank"><i class="fab fa-github"></i>
+              </a>
+              <h4>Natours</h4>
+            </div>
+            <p>
+              Pug CSS Javascript MVC Express Mongoose RestAPI SendGrid Mapbox
+              Stripe
+            </p>
+          </div>
+          <div class="grid-item">
+            <a class="wrapping-link" href="4ad70ff6b582cb439a79f560842d6c3f" target="_blank"></a>
+            <div class="grid-item-wrapper" style="353ce1b71518344703a6b5de0d78f2dc">
+              <div class="grid-item-container">
+                <div class="grid-image-top">
+                  <span class="centered project-image-bg"></span>
+                </div>
+              </div>
+            </div>
+            <div class="github-title">
+              <a href="20a89c931ffec4a18d7708a9a1926a84" target="_blank"><i class="fab fa-github"></i>
+              </a>
+              <h4>Face Smart</h4>
+            </div>
+            <p>React Express PostgreSQL CSS Clarifai</p>
+          </div>
+          <div class="grid-item">
+            <a class="wrapping-link" href="2b08df91f65e4c3e4e6eefd12b0df8fd" target="_blank"></a>
+            <div class="grid-item-wrapper" style="f56b2d3837c45bc9628111ddd567eaed">
+              <div class="grid-item-container">
+                <div class="grid-image-top">
+                  <span class="centered project-image-bg"></span>
+                </div>
+              </div>
+            </div>
+            <div class="github-title">
+              <a href="fa073002efe98ceca5c6876c588c8298" target="_blank"><i class="fab fa-github"></i>
+              </a>
+              <h4>Mapty</h4>
+            </div>
+          </div>
+          <div class="grid-item">
+            <a class="wrapping-link" href="7268b96d8f6b0a79e24d70bd8e33efdf" target="_blank"></a>
+            <div class="grid-item-wrapper" style="7972477ce1efb0d41fe8bcb95de523f8">
+              <div class="grid-item-container">
+                <div class="grid-image-top">
+                  <span class="centered project-image-bg"></span>
+                </div>
+              </div>
+            </div>
+            <div class="github-title">
+              <a href="482d545a5134bdf082ef4bf81b20b8a8" target="_blank"><i class="fab fa-github"></i>
+              </a>
+              <h4>Robots</h4>
+            </div>
+            <p>React RobotAPI</p>
+          </div>
+          <div class="grid-item">
+            <a class="wrapping-link" href="1dea5f4a5bc053ae2990b23b5a08d8b3" target="_blank"></a>
+            <div class="grid-item-wrapper" style="ff1b1ee9a3f0d5307febfeb6ef406795">
+              <div class="grid-item-container">
+                <div class="grid-image-top">
+                  <span class="centered project-image-bg"></span>
+                </div>
+              </div>
+            </div>
+            <div class="github-title">
+              <a href="2c1a0adaf47ca42da5ed1495b147a254" target="_blank"><i class="fab fa-github"></i>
+              </a>
+              <h4>Bankist</h4>
+            </div>
+            <p>HTML CSS Javascript</p>
+          </div>
+          <div class="grid-item">
+            <a class="wrapping-link" href="d46b407a90a83826fb668c7621deedec" target="_blank"></a>
+            <div class="grid-item-wrapper" style="3bb88abc81b396a4a1e2a3d65b335df3">
+              <div class="grid-item-container">
+                <div class="grid-image-top">
+                  <span class="centered project-image-bg"></span>
+                </div>
+              </div>
+            </div>
+            <div class="github-title">
+              <a href="7b1e14a242a89ae616dbc1a0dbaeda62" target="_blank"><i class="fab fa-github"></i>
+              </a>
+              <h4>Pig Game</h4>
+            </div>
+            <p>HTML CSS Javascript</p>
+          </div>
+          <div class="grid-item">
+            <a class="wrapping-link" href="e46b815a6391d2edb27a1996aa0e5208" target="_blank"></a>
+            <div class="grid-item-wrapper" style="d89498b93ca072882edf4353592d49ab">
+              <div class="grid-item-container">
+                <div class="grid-image-top">
+                  <span class="centered project-image-bg"></span>
+                </div>
+              </div>
+            </div>
+            <div class="github-title">
+              <a href="8cab05e738b21faad21c3529006ce75d" target="_blank"><i class="fab fa-github"></i>
+              </a>
+              <h4>Guess My Number</h4>
+            </div>
+            <p>HTML CSS Javascript</p>
+          </div>
+          <div class="grid-item">
+            <a class="wrapping-link" href="1c6ebb9383afba14b6596f8e74b68e7f" target="_blank"></a>
+            <div class="grid-item-wrapper" style="2cbc6f941a34133b1df0dd60cb8be37b">
+              <div class="grid-item-container">
+                <div class="grid-image-top">
+                  <span class="centered project-image-bg"></span>
+                </div>
+              </div>
+            </div>
+            <div class="github-title">
+              <a href="81e6b273474b7640f53dce0e951d9d4d" target="_blank"><i class="fab fa-github"></i>
+              </a>
+              <h4>Bankist DOM</h4>
+            </div>
+            <p>HTML CSS Javascript</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="contact" id="contact">
+        <h3>Contact Me</h3>
+        <div class="contact-form">
+          <form id="my-form" name="contact" class="my-form" method="POST" data-netlify="true">
+            <label>Email where I can reach you:</label>
+            <input type="email" name="email" required="">
+            <label>Message:</label>
+            <textarea id="message" name="message" required="" rows="4" cols="50"></textarea>
+            <div class="action-btn-group">
+              <button type="submit" class="btn round-btn portfolio-btn" id="my-form-button">
+                Let's Connect
+              </button>
+              <a class="btn transparent-btn" href="ef8561f9dfea400de9de89feaeb6ea2e" target="_blank">View Resume</a>
+            </div>
+            <p id="my-form-status"></p>
+          </form>
+        </div>
+      </div>
+
+      <div class="social">
+        <a href="ffe4ee45ae049284b4c092d80ae88982" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+        <a href="47cd85a0f0f3cd83f965a38d81343f41" target="_blank"><i class="fab fa-twitter"></i></a>
+        <a href="9436012fd0c45890073e30c93c797b3c" target="_blank"><i class="fab fa-github"></i></a>
+        <a href="4c01366367186c0705f9450a6aafb87e" target="_blank"><i class="fab fa-instagram"></i></a>
+      </div>
+    </div>
+    <script src="4e34e1fa9271e3ba068d4fac08a4dd2b"></script>
+  </body>
+</html>
