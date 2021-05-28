@@ -192,6 +192,7 @@ header .title .firstname {
 
 .resume a {
   margin-top: 0;
+  border-radius: 10px;
 }
 
 /* Responsive Media Queries */

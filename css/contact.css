@@ -43,7 +43,7 @@
 .contact-form .my-form #my-form-button {
   width: 200px;
   text-transform: uppercase;
-  border-radius: 0px;
+  border-radius: 10px;
 }
 
 .contact-form .my-form input[type="email"] {
@@ -52,6 +52,7 @@
   padding: 6px 12px;
   letter-spacing: 2.4px;
   border: 1px solid #8892b0;
+  border-radius: 10px;
 }
 
 .contact-form .my-form #message {
@@ -60,6 +61,7 @@
   outline: none;
   border: 0;
   border: 1px solid #8892b0;
+  border-radius: 10px;
 }
 
 .contact-form .my-form #my-form-status {
